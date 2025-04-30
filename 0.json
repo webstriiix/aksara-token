@@ -1,0 +1,18 @@
+{
+  "name": "Aksara Token",
+  "symbol": "AKS",
+  "description": "Aksara internal utility token for CRUD/NFT features.",
+  "seller_fee_basis_points": 0,
+  "image": "0.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
+
