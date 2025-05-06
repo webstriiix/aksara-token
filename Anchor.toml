@@ -6,13 +6,13 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-aksara_token = "r1Pt7WbfwjZP3URr7FMDTCeh9gchC99oDqHnQoSNX3a"
+aksara_token = "5N653KXtGgVygYBuHxsLTgicB6yy4FYepvdyd84WBv1g"
 
 [registry]
-url = "https://api.apr.dev"
+url = "http://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
